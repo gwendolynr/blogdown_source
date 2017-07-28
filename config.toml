@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://gwendolynr.github.io/gwendolyn"
+baseurl = "https://gwendolynr.github.io"
 languageCode = "en-us"
 title = "Gwen's Data Science Blog"
 theme = "hugo-cactus-theme"
@@ -7,7 +7,7 @@ theme = "hugo-cactus-theme"
 googleAnalytics = ""
 # Disable comments by leaving disqusShortname empty
 disqusShortname = ""
-publishDir = "../gwendolyn"
+publishDir = "../gwendolynr.github.io"
 
 [params]
 	name = "Gwendolyn Reynolds"
