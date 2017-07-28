@@ -12,9 +12,9 @@ publishDir = "../gwendolynr.github.io"
 [params]
 	name = "Gwendolyn Reynolds"
 	description = "Gwen's Data Science Blog"
-	bio = "Data Scientist & Nature Lover"
+	bio = "Data Scientist"
 	# Enter optionally your twitter account
-	twitter = "Your Twitter account"
+	twitter = "@gwendoesdata"
 	enableRSS = true
 
 	# Integrate Javascript files or stylesheets by adding the url to the external assets or by
@@ -34,7 +34,7 @@ publishDir = "../gwendolynr.github.io"
 	readMore = ""
 	copyright = ""
 	# Sharing options and author information in posts
-	aboutAuthor = "I'm an blogger."
+	aboutAuthor = "Data Scientist"
 	tweet = ""
 	share = ""
 	# 404 page
@@ -48,7 +48,7 @@ publishDir = "../gwendolynr.github.io"
 
 # Add additional social link entries underneath
 [social]
-    twitter  = "https://www.twitter.com/"
-    facebook = "https://www.facebook.com/"
-    github   = "https://www.github.com/"
-    dribble  = "https://www.dribbble.com/"
+    twitter  = "https://www.twitter.com/gwendoesdata"
+    facebook = "https://www.facebook.com/sorensonimpact"
+    github   = "https://www.github.com/gwendolynr"
+
